@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': ' https://youtu.be/08aPLLaz9rU \n https://youtu.be/mX5w81wVs7Y', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'vocabulary', 'text': 'cambridge_english_vocabulary_list.pdf \n The_Oxford_5000.pdf', 'tags': '', 'url': 'vocabulary.html'}]};
